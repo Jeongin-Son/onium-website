@@ -2,6 +2,7 @@ ONIUM Website · Stage 9 Final Deployment Package
 
 상태
 - 홈페이지 콘텐츠·디자인·한영 전환 확정
+- 영어를 기본 언어로 설정하고 한국어는 /ko/ 경로로 제공
 - 한국어·영문 개인정보처리방침 반영
 - Tally 입학지원서 및 Notion 학생지원 신청서 개인정보 수집·이용 동의 적용 확인
 - 제3자 상시·정기 제공 없음 및 외부 서비스 이용 현황 반영
@@ -10,10 +11,11 @@ ONIUM Website · Stage 9 Final Deployment Package
 - GitHub Pages 배포 주소: https://jeongin-son.github.io/onium-website/
 
 배포 파일
-- index.html: 한국어 홈페이지
-- en/index.html: 영문 홈페이지
-- privacy/index.html: 한국어 개인정보처리방침
-- en/privacy/index.html: 영문 개인정보처리방침
+- index.html: 영문 기본 홈페이지
+- ko/index.html: 한국어 홈페이지
+- privacy/index.html: 영문 개인정보처리방침
+- ko/privacy/index.html: 한국어 개인정보처리방침
+- en/: 기존 영문 주소 호환용 자동 이동 페이지
 - assets/: 로고 이미지
 
 실제 연결된 외부 경로
