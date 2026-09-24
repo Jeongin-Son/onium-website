@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeongin-son.github.io/onium-website/sitemap.xml
+Sitemap: https://oniumkorea.com/sitemap.xml

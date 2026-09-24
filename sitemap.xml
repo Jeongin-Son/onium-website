@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jeongin-son.github.io/onium-website/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeongin-son.github.io/onium-website/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jeongin-son.github.io/onium-website/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeongin-son.github.io/onium-website/" />
+    <loc>https://oniumkorea.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oniumkorea.com/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oniumkorea.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oniumkorea.com/" />
   </url>
   <url>
-    <loc>https://jeongin-son.github.io/onium-website/ko/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeongin-son.github.io/onium-website/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jeongin-son.github.io/onium-website/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeongin-son.github.io/onium-website/" />
+    <loc>https://oniumkorea.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oniumkorea.com/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oniumkorea.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oniumkorea.com/" />
   </url>
   <url>
-    <loc>https://jeongin-son.github.io/onium-website/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeongin-son.github.io/onium-website/privacy/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jeongin-son.github.io/onium-website/ko/privacy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeongin-son.github.io/onium-website/privacy/" />
+    <loc>https://oniumkorea.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oniumkorea.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oniumkorea.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oniumkorea.com/privacy/" />
   </url>
   <url>
-    <loc>https://jeongin-son.github.io/onium-website/ko/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jeongin-son.github.io/onium-website/privacy/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jeongin-son.github.io/onium-website/ko/privacy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jeongin-son.github.io/onium-website/privacy/" />
+    <loc>https://oniumkorea.com/ko/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oniumkorea.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oniumkorea.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oniumkorea.com/privacy/" />
   </url>
 </urlset>

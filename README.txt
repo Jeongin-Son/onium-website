@@ -8,7 +8,8 @@ ONIUM Website · Stage 9 Final Deployment Package
 - 제3자 상시·정기 제공 없음 및 외부 서비스 이용 현황 반영
 - 검토용 배지와 임시 안내 없음
 - 정적 웹호스팅에 그대로 업로드할 수 있는 최종 배포 파일 구성
-- GitHub Pages 배포 주소: https://jeongin-son.github.io/onium-website/
+- 공식 홈페이지 주소: https://oniumkorea.com/
+- GitHub Pages 원본 배포 주소: https://jeongin-son.github.io/onium-website/
 
 배포 파일
 - index.html: 영문 기본 홈페이지
@@ -41,5 +42,5 @@ ONIUM Website · Stage 9 Final Deployment Package
 4. 공개 URL에서 한국어·영문 홈페이지, 개인정보처리방침, 외부 링크를 최종 확인합니다.
 
 참고
-- GitHub Pages 기본 도메인을 기준으로 canonical URL, 언어 대체 URL, robots.txt 및 sitemap.xml을 구성했습니다.
-- 추후 사용자 도메인을 연결하면 위 주소들을 새 도메인 기준으로 변경해야 합니다.
+- 사용자 도메인 oniumkorea.com을 기준으로 canonical URL, 언어 대체 URL, robots.txt 및 sitemap.xml을 구성했습니다.
+- GitHub Pages 원본 주소는 배포 백업 및 관리용으로 유지합니다.
